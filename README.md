@@ -1,6 +1,5 @@
-### Hi there 👋
-  I'm Andy.
-  🌱 I’m currently learning Javascript, node, express, React, and whole bunch of other cool technologies.
+
+Currently building lots o' Powershell scripts
   
   
   <p>Technologies I'm currently using:</p>
